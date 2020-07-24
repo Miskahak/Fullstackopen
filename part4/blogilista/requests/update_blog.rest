@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/5e89e38fa9fc0b38488c33c3
+Content-Type: application/json
+
+{
+    "title": "Go To Statement Considered Harmful",
+    "likes": 12345,
+    "author": "Edsger W. Dijkstra",
+    "url": "http://www.u.arizona.edu/~rubinson/copyright_violations/Go_To_Considered_Harmful.html"
+}

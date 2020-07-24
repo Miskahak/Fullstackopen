@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/blogs/
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3Q0IiwiaWQiOiI1ZTk4MzYxMTk5MTk1ODJmNDAwZTdkOGQiLCJpYXQiOjE1ODgzMjI3NDF9.J_sfM0_f6KZt0JNYxo7AS7CxnxVLk5-Kn9LXLyOw10U
+
+{
+    "title": "testi77rrrr7",
+    "author": "autori23",
+    "url": "www.s2.com",
+    "likes": 90
+}
